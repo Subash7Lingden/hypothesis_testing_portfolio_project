@@ -7,7 +7,6 @@
 - [Research Question](#Research-Question)
 - [Data Overview](Data-Overview)
 - [Methodology](#Methodology)
-- [Tools and Technologies](#tools-and-technologies)
 - [Journey Insights](#Journey-Insights)
 - [Preference of Payment Types](Preference-of-Payment-Types)
 - [Passenger Count Analysis](Passenger-Count-Analysis)
